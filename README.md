@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Terminal commands table 🤔
+
+| Command         | Description    |
+|-----------------|----------------|
+| _ls_              | List directory contents   |
+| _pwd_             | Print working directory |
+| _cd_              | Change current directory |
+| _cat_             | Concatenate and print files  |
+| _man_             | General commands manual  |
+| _touch_           | Create a new file  |
+
+### Utility command aliases ⚡
+
+| Alias                    | Description        |
+|--------------------------|--------------------|
+| _alias cl="clear"_       | Clean command line |
+| _alias npms="npm start"_ | Execute the start script to start the application with npm |
