@@ -4,6 +4,11 @@
 _Passionate about technology and eager to strengthen my knowledge every day, I am interested in exploring different areas of the tech world.
 In my free time, I enjoy practicing what I learn by creating personal projects and would love to help make collaborative projects online when I have more experience._
 
+#### _💻 Programming languages: Python_
+
+
+-----------------------------------------
+
 ### Terminal commands table 🤔
 
 | Command         | Description    |
